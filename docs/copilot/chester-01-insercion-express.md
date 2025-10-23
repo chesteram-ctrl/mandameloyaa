@@ -8,6 +8,6 @@
 
 **Por qué fue útil:** Automatiza la creación de filas y evita escribir manualmente la estructura HTML, ahorrando tiempo y manteniendo consistencia en los datos.
 
-**Commit relacionado:** (este lo agregaremos después de hacer commit del archivo .md)
+**Commit relacionado:** 49362a2 - Add files via upload
 
 ![captura](./chester-01-insercion-express.png.png)
